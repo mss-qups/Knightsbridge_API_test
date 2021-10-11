@@ -2,4 +2,5 @@
 venv/
 report_allure
 report_html
+.pytest_cache
 
