@@ -7,6 +7,7 @@ from testdata.current_user_api.get_data_current import \
     assert_body_field_email, \
     assert_body_field_iat
 
+
 @allure.step('Logged_in user details, status code validation')
 def test_c112_01_status_code_is_200():
     assert_status_200()
