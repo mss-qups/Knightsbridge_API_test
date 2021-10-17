@@ -9,6 +9,11 @@ params_with_fixed_email_password = {
     "password": "Asdfgh123!"
 }
 
+params_with_email_password_invalid = {
+    "email": "invalidemail@mail.com",
+    "password": "invalidpasswordD@"
+}
+
 params_with_only_password = {
     'email': '',
     'password': 'Asdfgh123!'

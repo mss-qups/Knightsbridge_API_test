@@ -4,3 +4,7 @@ report_allure
 report_html
 .pytest_cache
 
+get data method, header,
+
+data_current_get_data
+response_current_logged_in_401

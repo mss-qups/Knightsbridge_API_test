@@ -1,5 +1,5 @@
 import allure
-from testdata.current_user_api.data_current_logged_in_user_200 import response, response_body
+from testdata.current_user_api.get_data_current import response, response_body
 
 
 @allure.step('Logged_in user details, status code validation')
