@@ -15,7 +15,7 @@ response_body = response.json()
 
 
 def assert_status_200():
-    # validate get successful
+    # validate get successfull
     assert response.status_code == 200
 
 
